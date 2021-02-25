@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/Satriouz/Mirror-X",
-    "website": "https://t.me/CacatuaMoluccensis_bot",
-    "success_url": "https://github.com/Satriouz/Mirror-X",
+    "repository": "https://github.com/hindihd/cmxbot1",
+    "website": "https://t.me/MirrorY_bot",
+    "success_url": "https://github.com/hindihd/cmxbot1"
     "stack": "container",
     "env": {
       "ENV": {
