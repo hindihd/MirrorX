@@ -12,7 +12,7 @@
     "website": "https://t.me/MirrorY_bot",
     "success_url": "https://github.com/hindihd/cmxbot1"
     
-    "stack": "container",
+    "stack":"container",
     "env": {
       "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
